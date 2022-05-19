@@ -1,0 +1,2 @@
+# dasturiy-injineringa-kirish
+exemple
